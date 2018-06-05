@@ -1,0 +1,2 @@
+* In the bigBang.js file using three function where you can find the episode details through Season number &
+Episode Number or by Id or name.
